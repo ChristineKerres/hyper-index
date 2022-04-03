@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Gap Sans ;
+    src: url(https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf);
+}
 html{
     background: rgb(255, 255, 255);
     scroll-behavior: smooth;
@@ -7,8 +11,7 @@ html{
 }
 body{
     font-family: Gap Sans;
-    src: url("https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf") format("woff2"),
-       url("https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf") format("woff");
+    src: url('https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf');
     color: black;
     max-width: 1850px;
     margin: auto;
