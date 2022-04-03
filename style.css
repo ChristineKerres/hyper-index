@@ -7,8 +7,8 @@ html{
 }
 body{
     font-family: Gap Sans;
-    src: url("/fonts/GapSansBold.ttf") format("woff2"),
-       url("/fonts/GapSansBold.ttf") format("woff");
+    src: url("https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf") format("woff2"),
+       url("https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf") format("woff");
     color: black;
     max-width: 1850px;
     margin: auto;
