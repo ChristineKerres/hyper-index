@@ -1,3 +1,12 @@
+@font-face {
+    font-family: Gap Sans ;
+    src: url(https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf);
+} 
+@font-face {
+    font-family: Maison ;
+    src: url(https://christinekerres.github.io/minuit-avant-la-nuit/fonts/MaisonMG-Regular.otf);
+}
+
 html{
     background: rgb(0, 0, 0);
     scroll-behavior: smooth;
@@ -7,8 +16,7 @@ html{
 }
 body{
     font-family: Gap Sans;
-    src: url("/fonts/GapSansBold.ttf") format("woff2"),
-       url("/fonts/GapSansBold.ttf") format("woff");
+    src: url('https://christinekerres.github.io/minuit-avant-la-nuit/fonts/GapSansBold.ttf');
     color: white;
     max-width: 1850px;
     margin: auto;
